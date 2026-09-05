@@ -1,1 +1,10 @@
-
+[
+  {
+    "Uid": "liuliuliu74149",
+    "Reason": "恶意宣传"
+  },
+  {
+    "Uid": "leng.qing201318",
+    "Reason": "恶意宣传"
+  }
+]
