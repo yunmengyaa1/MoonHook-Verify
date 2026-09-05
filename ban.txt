@@ -7,4 +7,8 @@
     "Uid": "leng.qing201318",
     "Reason": "恶意宣传"
   }
+  {
+    "Uid": "o9999968",
+    "Reason": "1"
+  }
 ]
